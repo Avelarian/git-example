@@ -7,4 +7,4 @@ jobs:
     name: Check that the unit test are all passing
     runs-on: ubuntu-20.04
     steps:
-      echo "Funcionou!"
+      run: echo "Funcionou!"
